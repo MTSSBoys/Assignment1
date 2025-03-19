@@ -4,3 +4,4 @@
 - Processori
 - Schede Madri
 ## Periferiche
+- Tastiere

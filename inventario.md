@@ -5,3 +5,4 @@
 - Schede Madri
 ## Periferiche
 - Tastiere
+- Mouse

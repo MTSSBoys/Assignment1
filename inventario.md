@@ -3,3 +3,4 @@
 ## Componenti
 - Processori
 - Schede Madri
+## Periferiche
